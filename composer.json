@@ -1,6 +1,6 @@
 {
-    "name": "mixm/app",
-    "description": "mixm library for App",
+    "name": "mixmtech/mixm",
+    "description": "mixmtech mixm library",
     "type": "library",
     "require": {
         "php": ">=7.4"
@@ -15,7 +15,7 @@
             "email": "info@mixmtech.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
             "Mixm\\": "src/"
