@@ -1,0 +1,18 @@
+{
+    "name": "mixm/app",
+    "description": "mixmtech app.",
+    "type": "library",
+    "homepage": "http://mixmtech.com",
+    "authors": [
+        {
+            "name": "Mohammad Abul Hasnat",
+            "email": "info@mixmtech.com",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Mixm\\": "src"
+        }
+    }
+}
