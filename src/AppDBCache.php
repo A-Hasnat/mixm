@@ -1,4 +1,4 @@
-<?php namespace Mixm\APP;
+<?php namespace Mixm;
 class AppDBCache
 {
       protected $config = [
