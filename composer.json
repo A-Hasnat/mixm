@@ -15,7 +15,8 @@
             "email": "info@mixmtech.com"
         }
     ],
-    "minimum-stability": "stable",
+    "prefer-stable" : true,
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "Mixm\\": "src/"
