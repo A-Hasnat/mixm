@@ -1,12 +1,12 @@
 {
-    "name": "a-hasnat/mixm",
-    "description": "demo",
+    "name": "mixm/app",
+    "description": "mixm library for App",
     "type": "library",
     "require": {
-        "php": ">=7.1"
+        "php": ">=7.4"
     },
     "require-dev": {
-        "php": ">=7.0"
+        "php": ">=7.4"
     },
     "license": "MIT",
     "authors": [
