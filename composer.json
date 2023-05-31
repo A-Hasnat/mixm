@@ -2,20 +2,20 @@
     "name": "mixmtech/mixm",
     "description": "mixmtech mixm library",
     "type": "library",
+    "license": "MIT",
     "require": {
-        "php": ">=7.4"
+        "php": ">=7.4",
+        "ext-json": "*"
     },
     "require-dev": {
         "php": ">=7.4"
     },
-    "license": "MIT",
     "authors": [
         {
             "name": "Mohammad Abul Hasnat",
             "email": "info@mixmtech.com"
         }
     ],
-    "prefer-stable" : true,
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
