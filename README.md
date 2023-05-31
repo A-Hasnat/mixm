@@ -1,3 +1,2 @@
 # mixm
-mixm application
-1011
+mixmtech application
